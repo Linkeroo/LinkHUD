@@ -196,6 +196,10 @@ Scheme
 		"UpgradeSelectedBg"		"249 138 83 255"
 		"UpgradeDisabledFg"		"64 59 52 255"
 		"UpgradeDisabledBg"		"79 77 68 255"
+		
+		//My custom colours
+		
+		"FancyGreen"		"104 232 166 255"
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
@@ -2944,6 +2948,8 @@ Scheme
 			}
 		}
 		
+		//My fonts
+		
 		OgonekRegular12
 		{
 			"1"
@@ -3010,6 +3016,180 @@ Scheme
 			{
 				"name"		"Ogonek"
 				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		OgonekRegular56
+		{
+			"1"
+			{
+				"name"		"Ogonek"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
+		//These are the ogonek heavy fonts - HP/ammo
+		
+		OgonekHeavy12
+		{
+			"1"
+			{
+				"name"		"Ogonek Heavy"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		OgonekHeavy16
+		{
+			"1"
+			{
+				"name"		"Ogonek Heavy"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		OgonekHeavy24
+		{
+			"1"
+			{
+				"name"		"Ogonek Heavy"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		OgonekHeavy32
+		{
+			"1"
+			{
+				"name"		"Ogonek Heavy"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		OgonekHeavy36
+		{
+			"1"
+			{
+				"name"		"Ogonek Heavy"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		OgonekHeavy42
+		{
+			"1"
+			{
+				"name"		"Ogonek Heavy"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		OgonekHeavy48
+		{
+			"1"
+			{
+				"name"		"Ogonek Heavy"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		OgonekHeavy56
+		{
+			"1"
+			{
+				"name"		"Ogonek Heavy"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
+		// My Ogonek Unicase fonts
+		
+		OgonekUnicase12
+		{
+			"1"
+			{
+				"name"		"Ogonek Unicase"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		OgonekUnicase16
+		{
+			"1"
+			{
+				"name"		"Ogonek Unicase"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		OgonekUnicase24
+		{
+			"1"
+			{
+				"name"		"Ogonek Unicase"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		OgonekUnicase32
+		{
+			"1"
+			{
+				"name"		"Ogonek Unicase"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		OgonekUnicase36
+		{
+			"1"
+			{
+				"name"		"Ogonek Unicase"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		OgonekUnicase42
+		{
+			"1"
+			{
+				"name"		"Ogonek Unicase"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		OgonekUnicase48
+		{
+			"1"
+			{
+				"name"		"Ogonek Unicase"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		OgonekUnicase56
+		{
+			"1"
+			{
+				"name"		"Ogonek Unicase"
+				"tall"		"56"
 				"antialias" "1"
 			}
 		}
