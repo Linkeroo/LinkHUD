@@ -199,7 +199,9 @@ Scheme
 		
 		//My custom colours
 		
-		"FancyGreen"		"104 232 166 255"
+		"YellowLink"		"255 255 0 200"
+		"BlackLink"		"0 0 0 200"
+		"WhiteLink"		"255 255 255 200"
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
@@ -2948,8 +2950,271 @@ Scheme
 			}
 		}
 		
-		//My fonts
+		//////////////////////////My fonts///////////////////////////////
+		/////////////BOMBARDIER FONTS//////////////
+		BombardierRegular12
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		BombardierRegular16
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		BombardierRegular20
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		BombardierRegular24
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		BombardierRegular28
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		BombardierRegular32
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		BombardierRegular36
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		BombardierRegular40
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		BombardierRegular44
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		BombardierRegular48
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		BombardierRegular52
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		BombardierRegular56
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		BombardierRegular60
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		//////Bold Bombardier//////
+		BombardierBold12
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"12"
+				"weight"	"600"
+				"antialias" "1"
+			}
+		}
+		BombardierBold16
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"16"
+				"weight"	"600"
+				"antialias" "1"
+			}
+		}
+		BombardierBold20
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"20"
+				"weight"	"600"
+				"antialias" "1"
+			}
+		}
+		BombardierBold24
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"24"
+				"weight"	"600"
+				"antialias" "1"
+			}
+		}
+		BombardierBold28
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"28"
+				"weight"	"600"
+				"antialias" "1"
+			}
+		}
+		BombardierBold32
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"32"
+				"weight"	"600"
+				"antialias" "1"
+			}
+		}
+		BombardierBold36
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"36"
+				"weight"	"600"
+				"antialias" "1"
+			}
+		}
+		BombardierBold40
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"40"
+				"weight"	"600"
+				"antialias" "1"
+			}
+		}
+		BombardierBold44
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"44"
+				"weight"	"600"
+				"antialias" "1"
+			}
+		}
+		BombardierBold48
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"48"
+				"weight"	"600"
+				"antialias" "1"
+			}
+		}
+		BombardierBold52
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"52"
+				"weight"	"600"
+				"antialias" "1"
+			}
+		}
+		BombardierBold56
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"56"
+				"weight"	"600"
+				"antialias" "1"
+			}
+		}
+		BombardierBold60
+		{
+			"1"
+			{
+				"name"		"Bombardier"
+				"tall"		"60"
+				"weight"	"600"
+				"antialias" "1"
+			}
+		}
 		
+		/////////////OGONEK FONTS//////////////////
 		OgonekRegular12
 		{
 			"1"
@@ -5741,6 +6006,11 @@ Scheme
 		{
 			"font" "resource/fonts/Ogonek _Unicase.ttf"
 			"name" "Ogonek Unicase"
+		}
+		"11"
+		{
+			"font" "resource/fonts/BOMBARD_.ttf"
+			"name" "Bombardier"
 		}
 	}
 }

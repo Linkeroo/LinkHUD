@@ -86,8 +86,8 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"OgonekUnicase56"
-		"fgcolor"		"255 255 0 200"
+		"font"			"BombardierBold60"
+		"fgcolor"		"WhiteLink"
 	}								
 	"PlayerStatusHealthValueBG"
 	{
@@ -104,17 +104,17 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"OgonekUnicase56"
-		"fgcolor"		"0 0 0 200"
+		"font"			"BombardierBold60"
+		"fgcolor"		"BlackLink"
 	}
 	"TeamIndicator"
  	{
  		"ControlName"	"CTFImagePanel"
  		"fieldName"		"TeamIndicator"
- 		"xpos"			"86"
+ 		"xpos"			"80"
  		"ypos"			"40"
  		"zpos"			"2"
- 		"wide"			"80"
+ 		"wide"			"90"
  		"tall"	 		"45"
  		"autoResize"	"0"
  		"pinCorner"		"0"
@@ -128,8 +128,8 @@
 		
  		"src_corner_height"		"40"				// pixels inside the image
  		"src_corner_width"		"40"			
- 		"draw_corner_width"		"6"				// screen size of the corners ( and sides ), proportional
- 		"draw_corner_height" 	"6"	
+ 		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+ 		"draw_corner_height" 	"0"	
  	}	
 	"PlayerStatusBleedImage"
 	{

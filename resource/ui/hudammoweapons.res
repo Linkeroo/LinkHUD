@@ -44,8 +44,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"OgonekUnicase56"
-		"fgcolor"		"255 255 0 200"
+		"font"			"BombardierBold60"
+		"fgcolor"		"WhiteLink"
 		"xpos"			"0"
 		"xpos_minmode"	"8"
 		"ypos"			"0"
@@ -65,8 +65,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"OgonekUnicase56"
-		"fgcolor"		"0 0 0 200"
+		"font"			"BombardierBold60"
+		"fgcolor"		"BlackLink"
 		"xpos"			"3"
 		"xpos_minmode"	"9"
 		"xpos_hidef"	"2"
@@ -89,15 +89,15 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"OgonekHeavy24"
+		"font"			"BombardierBold24"
 		"font_lodef"	"HudFontMedium"
 		"font_minmode"	"HudFontSmall"
-		"fgcolor"		"255 255 255 200"
+		"fgcolor"		"YellowLink"
 		"xpos"			"150"
 		"xpos_minmode"	"65"
 		"ypos"			"48"
 		"ypos_lodef"	"10"
-		"zpos"			"7"
+		"zpos"			"8"
 		"wide"			"40"
 		"tall"			"27"
 		"tall_lodef"	"30"
@@ -110,10 +110,10 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"			"OgonekHeavy24"
+		"font"			"BombardierBold24"
 		"font_lodef"	"HudFontMedium"
 		"font_minmode"	"HudFontSmall"
-		"fgcolor"		"0 0 0 200"
+		"fgcolor"		"BlackLink"
 		"xpos"			"152"
 		"xpos_minmode"	"66"
 		"ypos"			"50"
@@ -131,8 +131,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"OgonekUnicase56"
-		"fgcolor"		"255 255 0 200"
+		"font"			"BombardierBold60"
+		"fgcolor"		"WhiteLink"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"5"
@@ -151,8 +151,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"OgonekUnicase56"
-		"fgcolor"		"0 0 0 200"
+		"font"			"BombardierBold60"
+		"fgcolor"		"BlackLink"
 		"xpos"			"3"
 		"xpos_hidef"	"2"
 		"xpos_lodef"	"2"
@@ -175,10 +175,10 @@
  	{
  		"ControlName"	"CTFImagePanel"
  		"fieldName"		"TeamIndicator"
- 		"xpos"			"97"
+ 		"xpos"			"88"
  		"ypos"			"40"
  		"zpos"			"2"
- 		"wide"			"90"
+ 		"wide"			"94"
  		"tall"	 		"45"
  		"autoResize"	"0"
  		"pinCorner"		"0"
@@ -192,7 +192,7 @@
 		
  		"src_corner_height"		"40"				// pixels inside the image
  		"src_corner_width"		"40"			
- 		"draw_corner_width"		"6"				// screen size of the corners ( and sides ), proportional
- 		"draw_corner_height" 	"6"	
+ 		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+ 		"draw_corner_height" 	"0"	
  	}	
 }
