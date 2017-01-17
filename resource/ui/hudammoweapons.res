@@ -170,7 +170,7 @@
 		"textAlignment"	"east"		
 		"labelText"		"%Ammo%"
 		
-	}	
+	}
 	"TeamIndicator"
  	{
  		"ControlName"	"CTFImagePanel"
